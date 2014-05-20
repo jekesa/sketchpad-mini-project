@@ -1,0 +1,32 @@
+#container {
+    height: 50px;
+    width: 960px;
+    margin: auto;
+}
+
+#clr_grid {
+    float: left;
+}
+
+#new_grid {
+    float: right;
+}
+
+#wrapper {
+    height: 960px;
+    width: 960px;
+    margin: auto;
+    border: 0px;
+    background-color: none;
+    line-height: 0px;
+    vertical-align: center;
+}
+
+#wrapper div {
+    border: 0px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+    background-color: gray;
+}
